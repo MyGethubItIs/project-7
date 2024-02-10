@@ -13,5 +13,5 @@ Helloween Website
 
 
 
-![halloween](/preview.png
+
 
